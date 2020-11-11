@@ -1,0 +1,14 @@
+﻿<Window x:Class="Task2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task2"
+        mc:Ignorable="d"
+        Title="Process starter" Height="307" Width="334">
+    <Grid>
+        <Button Content="Start" HorizontalAlignment="Left" Margin="23,176,0,0" VerticalAlignment="Top" Height="52" Width="109" Click="Start_Click"/>
+        <Button Content="Stop" HorizontalAlignment="Left" Margin="203,176,0,0" VerticalAlignment="Top" Height="52" Width="109" Click="Stop_Click"/>
+        <Label x:Name="StatusLabel" Content="Not started" HorizontalAlignment="Center" Margin="0,62,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

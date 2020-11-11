@@ -1,0 +1,6 @@
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task4_parent\bin\Debug\Task4_parent.exe.config
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task4_parent\bin\Debug\Task4_parent.exe
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task4_parent\bin\Debug\Task4_parent.pdb
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task4_parent\obj\Debug\Task4_parent.csproj.CoreCompileInputs.cache
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task4_parent\obj\Debug\Task4_parent.exe
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task4_parent\obj\Debug\Task4_parent.pdb

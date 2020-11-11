@@ -1,0 +1,15 @@
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task2_fw\obj\Debug\Task2_fw.csprojAssemblyReference.cache
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task2_fw\obj\Debug\MainWindow.g.cs
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task2_fw\obj\Debug\App.g.cs
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task2_fw\obj\Debug\Task2_fw_MarkupCompile.cache
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task2_fw\obj\Debug\Task2_fw_MarkupCompile.lref
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task2_fw\bin\Debug\Task2_fw.exe.config
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task2_fw\bin\Debug\Task2_fw.exe
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task2_fw\bin\Debug\Task2_fw.pdb
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task2_fw\obj\Debug\MainWindow.baml
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task2_fw\obj\Debug\Task2_fw.g.resources
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task2_fw\obj\Debug\Task2_fw.Properties.Resources.resources
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task2_fw\obj\Debug\Task2_fw.csproj.GenerateResource.cache
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task2_fw\obj\Debug\Task2_fw.csproj.CoreCompileInputs.cache
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task2_fw\obj\Debug\Task2_fw.exe
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task2_fw\obj\Debug\Task2_fw.pdb

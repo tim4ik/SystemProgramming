@@ -1,0 +1,11 @@
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task3\bin\Debug\Task3.exe.config
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task3\bin\Debug\Task3.exe
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task3\bin\Debug\Task3.pdb
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task3\obj\Debug\Task3_child.csprojAssemblyReference.cache
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task3\obj\Debug\Task3_child.csproj.CoreCompileInputs.cache
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task3\obj\Debug\Task3.exe
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task3\obj\Debug\Task3.pdb
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task3\bin\Debug\Task3.exe.manifest
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task3\bin\Debug\Task3.application
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task3\obj\Debug\Task3.exe.manifest
+C:\Users\ttopa\source\repos\SystemProgramming\hw1\hw1.Projects\Task3\obj\Debug\Task3.application
